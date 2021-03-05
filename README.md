@@ -18,7 +18,10 @@ BOARD_ID получаем из адреса страницы Вашей доск
 
 Консольные команды для работы с приложением:
 
-Чтобы отобразить все колонки и задачи в них - python trello.py
-Добавить новую задачу в колонку: python trello.py create "name" "column_name" (где name - название задачи, column_name - название колонки)
-Создать новую калонку: python trello.py add_column "column_name" (где column_name - название колонки)
-Переместить задачу из одной колонки в другую: python trello.py move "name" "column_name" (где name - название задачи которую хотите пернести, column_name - название колонки в которую будет перенесена задача)
+Чтобы отобразить все колонки и задачи в них - python trello.py/
+
+Добавить новую задачу в колонку: python trello.py create "name" "column_name" (где name - название задачи, column_name - название колонки)/
+
+Создать новую калонку: python trello.py add_column "column_name" (где column_name - название колонки)/
+
+Переместить задачу из одной колонки в другую: python trello.py move "name" "column_name" (где name - название задачи которую хотите пернести, column_name - название колонки в которую будет перенесена задача)/
